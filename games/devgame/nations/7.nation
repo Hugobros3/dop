@@ -1,0 +1,18 @@
+//Nation data saving format 1.0
+color=0
+desc=
+name=L'armée xolienne
+default_grade=player
+founder=Sir_Gobrosse
+password=
+population=0
+funds=0
+#player
++intel.see
++orders.give
++stats.see
++perms.see
+#operator
++sectors.manage
++orders.give
++perms.set

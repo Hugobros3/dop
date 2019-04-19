@@ -1,0 +1,18 @@
+//Nation data saving format 1.0
+color=10
+desc=On est plus en 1917 les mecs -_-
+name=Les communistes
+default_grade=null
+founder=none
+password=
+population=0
+funds=0
+#player
++intel.see
++orders.give
++stats.see
++perms.see
+#operator
++sectors.manage
++orders.give
++perms.set

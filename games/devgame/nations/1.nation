@@ -1,0 +1,18 @@
+//Nation data saving format 1.0
+color=3
+desc=Une bande de sagouins qui croient pouvoir renverser le pouvoir.
+name=Le club des FDP
+default_grade=null
+founder=none
+password=
+population=30
+funds=1233
+#player
++intel.see
++orders.give
++stats.see
++perms.see
+#operator
++sectors.manage
++orders.give
++perms.set

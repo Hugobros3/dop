@@ -1,0 +1,12 @@
+#DoP Locale file
+
+gui.username=Nom d'utilisateur
+gui.password=Mot de passe
+gui.login=Connection
+gui.noaccount=Pas de compte ? Direction http://dop.xol.io
+gui.passsaved1=Votre mot de passe sera sauvegardé pour la prochaine fois, si vous
+gui.passsaved2=utilisez un ordinateur public, veuillez vous déconnecter après avoir joué.
+gui.autologin=Connection automatique dans % secondes...
+gui.nopremium=Compte non-premium. Achetez le jeu !
+gui.wrongpw=Mauvais nom d'utilisateur ou mot de passe
+gui.unknowerror=Erreur inconnue

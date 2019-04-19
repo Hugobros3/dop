@@ -1,0 +1,16 @@
+#DoP Locale file
+
+gui.username=Username
+gui.password=Password
+gui.login=Login
+gui.noaccount=No account ? Buy one at http://dop.xol.io
+gui.passsaved1=Your password will be saved for next time. If you use a public
+gui.passsaved2=computer you should disconnect in main menu after playing.
+gui.autologin=Autologin in % seconds...
+gui.nopremium=Account not premium. Buy the game first.
+gui.wrongpw=Wrong username/password
+gui.unknowerror=Unknow error
+
+unit.inf.name=Infantry
+unit.bazook.name=Bazooka
+unit.car.name=Car

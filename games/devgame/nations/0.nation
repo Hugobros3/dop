@@ -1,0 +1,18 @@
+//Nation data saving format 1.0
+color=2
+desc=
+name=Les fils de chiens
+default_grade=player
+founder=none
+password=
+population=320
+funds=11552
+#player
++intel.see
++orders.give
++stats.see
++perms.see
+#operator
++sectors.manage
++orders.give
++perms.set

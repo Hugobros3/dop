@@ -1,0 +1,18 @@
+//Nation data saving format 1.0
+color=9
+desc=L'armée d'Iza et chibbiz
+name=Les traitres
+default_grade=null
+founder=none
+password=
+population=0
+funds=0
+#player
++intel.see
++orders.give
++stats.see
++perms.see
+#operator
++sectors.manage
++orders.give
++perms.set

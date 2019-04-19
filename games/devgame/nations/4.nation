@@ -1,0 +1,18 @@
+//Nation data saving format 1.0
+color=7
+desc=Ils filment attention, croisez pas leur regard.
+name=Les youtubers
+default_grade=null
+founder=none
+password=
+population=0
+funds=0
+#player
++intel.see
++orders.give
++stats.see
++perms.see
+#operator
++sectors.manage
++orders.give
++perms.set

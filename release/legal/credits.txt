@@ -1,0 +1,95 @@
+Despotism Of Power
+
+#888888A game by
+#888888XolioWare Interactive
+
+
+
+
+ == LEAD PROGRAMMER ==
+ 
+ Hugo "hugobros" Devillers
+ 
+ == LEAD ARTIST ==
+ 
+ Hugo "hugobros" Devillers
+ 
+ And yes the game is ugly as fuck. My bad.
+ 
+ == MUSIC / SOUND DESIGN ==
+ 
+ http://www.superflashbros.net/as3sfxr/ for menu sfx.
+ No music yet.
+ 
+ == INSPIRATION ==
+ 
+ This game is obviously greatly inspired by the
+ well-known "Nintendo Wars" series ( Aka Advance wars ).
+ 
+ It uses a graphical and sound design
+ similar to what we had in the 16-bit era,
+ more specifically SNES games.
+ 
+ Being a former Minecraft modder I got inspired by
+ it's code and way of doing things for some aspects
+ of the game ( sectors, network manager, gui system )
+ 
+ It is also inspired by many elements from some
+ typical management and strategy games.
+ 
+ == HOSTING AND WEB SERVICES ==
+ 
+ The dev-machine was a dedicated server form OVH.com
+ then a cheap VPS from firstheberg.org, wich had the
+ "funny" particularity of crashing for days whitout rebooting.
+ 
+ == BETA-TESTING ==
+ 
+ The following users were granted the right to play 
+ the game before everyone else :
+ 
+ Poulet_Salade
+ Kisuma
+ Honk
+ Solas
+ Djowkerz
+ ShootingStyle
+ CeasarUp
+ jade280
+ GodEneru
+ Arcafeux
+ Asathur
+ Anate
+ dpshark
+ Tomcat
+ MissJuliette
+ 
+ Even if some of them didn't play the game much, some
+ showed great support towards me and therefore helped a lot.
+ 
+ == CODE HELP ==
+ 
+ Libraries used are inspired by the famous notch
+ who used the same for almost all of his games, and
+ notably for "Minecraft". Being a former Minecraft
+ modder I learned a lot doing that and got used
+ to those libs and Java.
+ 
+ == LIBRARIES USED ==
+ 
+ LWJGL - LightWeight Java Game Library
+ http://lwjgl.org
+ 
+ Java 3D sound system by Paul Lamb
+ http://www.paulscode.com/
+ 
+ == SPECIAL THANKS ==
+ 
+ ME because it's good to have some self-esteem !
+ PEOPLE I KNOW for being there !
+ EVERYONE WHO BOUGHT THE GAME ... well for buying it !
+ EVERYONE ELSE for being potential clients !
+ 
+ But, more importantly...
+ 
+ YOU for playing this game !
